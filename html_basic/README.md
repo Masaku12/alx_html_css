@@ -79,11 +79,12 @@ The article tag should contain a table table with the following structure:
 - Use the tbody tag to contain the table data rows.
 - Populate the table with the following data:
 
-Name Age Country
-John 25 USA
-Emily 28 Canada
-Michael 32 Australia
-Sophia 21 UK
+|   Name  |   Age   | Country |
+| ------- | ------- | ------- |
+|   John  |    25   |   USA   |
+|   Emily |    28   |  Canada |
+| Michael |    32   |Australia|
+|  Sophia |    21   |    UK   |
 
 **Repo:**
 
