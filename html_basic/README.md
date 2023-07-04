@@ -9,7 +9,7 @@ The page should contain:
   - with a title
 - a body
 
-**Tips:**don’t forget to read all concept pages…
+**Tips:** don’t forget to read all concept pages…
 
 Test the webpage with the official HTML Validator. You will see that it is not happy!
 
