@@ -4,6 +4,7 @@ body, main {
 
 body {
     flex-direction: column;
+    background-color:linen;
 }
 
 main {
@@ -14,6 +15,7 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    border-bottom-style: dashed;
 }
 
 aside {
