@@ -3,22 +3,33 @@ body, main {
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
     flex-direction: column;
+    grid-template-rows: 1fr auto;
     background-color:linen;
 }
 
 main {
     flex-direction: row;
-    flex:auto;
+    flex: auto;
 }
 
 article {
     flex: 2;
+    border: 6px;
     overflow-y: auto;
     border-bottom-style: dashed;
 }
 
 aside {
     flex: 1;
+    border: 20px;
     overflow-y: auto;
+    padding: 20px;
+}
+
+footer {
+    margin-top: auto;
+    padding-bottom: 0%;
 }
