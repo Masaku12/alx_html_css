@@ -21,6 +21,8 @@ We just told your webpages to use the CSS rules described in those two files, an
 - Directory: css_basic
 - File: base.css, styles.css, index.html, tweets.html
 
+_____________________________________________________________________
+
 ## 1. Positioning
 
 Even though each element of your webpages now has a different style, you may notice they still are stacked on top of each other, and that’s probably not what you want. CSS brings a few different approaches to positioning that one may use depending on cases.
@@ -34,6 +36,7 @@ As a reminder, there are also two container tags playing critical roles here:
 `<main>` contains the area that includes `<article>` and `<aside>`.
 
 `<body>` contains all of them together.
+
 
 Here are steps to get this layout, which you will have to write as CSS code in the styles.css file:
 
