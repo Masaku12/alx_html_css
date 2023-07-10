@@ -82,6 +82,6 @@ What you’re allowed to do:
 
 **Repo:**
 
-GitHub repository: alx_html_css
-Directory: css_basic
-File: index.html, styles.css
+- GitHub repository: alx_html_css
+- Directory: css_basic
+- File: index.html, styles.css
