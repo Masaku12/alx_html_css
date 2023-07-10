@@ -37,7 +37,6 @@ As a reminder, there are also two container tags playing critical roles here:
 
 `<body>` contains all of them together.
 
-
 Here are steps to get this layout, which you will have to write as CSS code in the styles.css file:
 
 - Both container tags, `<body>` and `<main>` must be told that they are containers to flexible boxes: you need to apply the display: flex property to both of them.
@@ -56,6 +55,8 @@ Do note that the exact rendering you’re getting may be slightly different depe
 - Directory: css_basic
 - File: styles.css
 
+_____________________________________________________________________
+
 ## 2. Responsive Web Design
 
 You may notice that the website keeps this layout when you make your browser window smaller, or visit it from a smartphone, and it’s unpleasant to use that way for your users. No worries, we covered this for you: just add the attribute `class="works_on_smartphone"` on the `<body>` tag in your index.html file, and the layout you just created will degrade nicely as you resize the window!
@@ -67,6 +68,8 @@ But you’ll notice, if you visit your website on a smartphone, that it will sti
 - GitHub repository: alx_html_css
 - Directory: css_basic
 - File: index.html, styles.css
+
+____________________________________________________________________________
 
 ## 3. Some more Styling
 
