@@ -53,3 +53,35 @@ Do note that the exact rendering you’re getting may be slightly different depe
 - Directory: css_basic
 - File: styles.css
 
+## 2. Responsive Web Design
+
+You may notice that the website keeps this layout when you make your browser window smaller, or visit it from a smartphone, and it’s unpleasant to use that way for your users. No worries, we covered this for you: just add the attribute `class="works_on_smartphone"` on the `<body>` tag in your index.html file, and the layout you just created will degrade nicely as you resize the window!
+
+But you’ll notice, if you visit your website on a smartphone, that it will still have that layout, and just seem “zoomed out”. That’s because you need to adjust what is called the “viewport” of the browser when rendering the page. Hint: this gets done by adding a certain tag to your HTML code.
+
+**Repo:**
+
+- GitHub repository: alx_html_css
+- Directory: css_basic
+- File: index.html, styles.css
+
+## 3. Some more Styling
+
+Your website is unique, and if you want it not to look like everyone else’s, you may want to take some time to style everything of it as you wish!
+
+What you’re allowed to do:
+
+- You may add any non-positioning-related CSS rules to styles.css (like colors, backgrounds, borders, …)
+- You may do whatever you want with the HTML content and the CSS that applies inside the `<article>` tag.
+- You may add a logo to the top-left of your page. To keep it simple, rather than use an image, feel free to use a unicode character, **from this table** for instance. One way to make it work: add a first item in the list in your `<header>`, before all other list items, and just put the HTML-code for the character in it (it starts with “&” and ends with “;”). To make it look like a logo, if you want the character to be bigger, you can add the `class="logo"` attribute on the
+- tag, we added the CSS rule for you.
+
+**What you’re not allowed to do:**
+
+- Do not change the layout strategy, done with CSS Flexbox, as described above. Feel free to experiment with positioning within the `<article>` tag if you wish; but please refrain to do so anywhere else.
+
+**Repo:**
+
+GitHub repository: alx_html_css
+Directory: css_basic
+File: index.html, styles.css
