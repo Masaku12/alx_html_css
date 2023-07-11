@@ -69,7 +69,7 @@ But you’ll notice, if you visit your website on a smartphone, that it will sti
 - Directory: css_basic
 - File: index.html, styles.css
 
-____________________________________________________________________________
+____________________________________________;
 
 ## 3. Some more Styling
 
