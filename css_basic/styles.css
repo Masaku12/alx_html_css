@@ -17,7 +17,6 @@ main {
 
 article {
     flex: 2;
-    border: 6px;
     overflow-y: auto;
     border-bottom-style: dashed;
 }
