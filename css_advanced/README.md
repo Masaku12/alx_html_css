@@ -11,3 +11,27 @@ This designer file will be available on [Figma](<https://www.figma.com/files/rec
 - Images
 
 And “Duplicate to your Drafts” to have access to all design details. (if not already done)
+
+Important notes with Figma:
+
+- if your computer doesn’t have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
+- some values are in float - feel free to round them
+
+**Repo:**
+
+- GitHub repository: alx_html_css
+- Directory: css_advanced
+- File: README.md, index.html
+
+## 1. Import the style
+
+Before starting the implementation of the Style:
+
+- Create the file styles.css
+- Import styles.css in the head of your index.html
+
+**Repo:**
+
+- GitHub repository: alx_html_css
+- Directory: css_advanced
+- File: index.html, styles.css
